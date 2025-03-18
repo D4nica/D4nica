@@ -6,5 +6,5 @@
 📺 Fun Fact: My favorite TV show is Arrested Development <br> <br>
 👤 My LinkedIn: [LinkedIn](www.linkedin.com/in/danica-kim) <br>
 📫 My email: [Email](mailto:danica11405@gmail.com) <br>
-📑 My resume: [CV] 
+📑 My resume: [CV](https://github.com/D4nica/D4nica/blob/main/DanicaKim.docx)
 
