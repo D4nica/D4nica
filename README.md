@@ -1,15 +1,9 @@
 # Hi, I'm Danica 👾.
 
-<div align="center">
-<img height="500" alt="JPG" align="left" src="IMG_0181.jpg">
-</div>
+Pronouns: she/her <br>
+Education: CS at the University of Rochester <br>
+Interests: 
+Fun Fact: My favorite TV show is Arrested Development <br>
+📫 How to reach me: [@danica11405@gmail.com] (mailto:danica11405@gmail.com) <br>
+My resume: [CV] 
 
-Find your state of being  
-<br>
-Feel the flow of intrinsic energy and joy  
-<br>
-Life is too good and short to hold onto grudges  
-<br>
-Seize the moment  
-<br>
-and have a wonderful rest of your day!  
