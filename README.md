@@ -1,9 +1,15 @@
-## Hi I'm Danica 👾
+# Hi, I'm Danica 👾.
 
-🫧 Pronouns: she/her <b/>
-🎓 Education: CS major at University of Rochester <b>
-📺 Fun fact: My favorite TV show is Arrested Development <b>
-💡 Interests: software development, AI, computer systems, full-stack development, theory of computation <b>
-[Linkedin] (www.linkedin.com/in/danica-kim)
+<div align="center">
+<img height="500" alt="JPG" align="left" src="IMG_0181.jpg">
+</div>
 
-
+Find your state of being  
+<br>
+Feel the flow of intrinsic energy and joy  
+<br>
+Life is too good and short to hold onto grudges  
+<br>
+Seize the moment  
+<br>
+and have a wonderful rest of your day!  
