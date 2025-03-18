@@ -1,4 +1,4 @@
-# Hi, I'm Danica 👾.
+# Hi, I'm Danica 👾
 
 🫧 Pronouns: she/her <br>
 🎓 Education: CS at the University of Rochester <br>
