@@ -1,22 +1,34 @@
 # Hi, I'm Danica 👾
 
-🫧 Pronouns: she/her <br>
-🎓 Education: CS & Math at the University of Rochester <br>
-📺 Fun Fact: My favorite TV show is Arrested Development <br> <br>
-👤 My LinkedIn: [LinkedIn](https://www.linkedin.com/in/danica-kim) <br>
-📫 My email: [Email](mailto:danica11405@gmail.com) <br>
+<h2 align="center"> 😸 &nbsp;Here's a little bit about me: </h2>
 
-
-<h2>Languages</h2>
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![SwiftUI](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=276DC3)
+```yaml
+name: Danica Kim
+located in: New York City, New York
+education: B.S. Computer Science (AI Concentration) & B.A. Mathematic @ University of Rochester, May 2027
+fields of interest:
+  [
+    "Software Development",
+    "FullStack Development",
+    "Machine Learning & Deep Learning",
+    "Backend Systems",
+    "Optimization & Algothrims",
+  ]
+technical background:
+  [
+    "Incoming SWE Intern @ Morgan Stanley - Parametric (Summer 2026)",
+    "Software Developer @ University of Rochester - Lasso (October 2025 - Present)",
+    "Fullstack Developer @ RocLab (October 2025 - Present)",
+    "Web Operations Intern @ MJHS (Summer 2025)"
+  ]
+links:
+  [
+    "GitHub: github.com/D4nica",
+    "LinkedIn: linkedin.com/in/danica-kim",
+    "Website: coming soon"
+  ]
+likes: ["Horror Movies", "Oboe"]
+dislikes: ["Slow elevators"]
+```
 
 
