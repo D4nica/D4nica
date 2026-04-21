@@ -8,11 +8,11 @@ located in: New York City, New York
 education: B.S. Computer Science (AI Concentration) & B.A. Mathematic @ University of Rochester, May 2027
 fields of interest:
   [
+    "Optimization & Algothrims",
     "Software Development",
     "FullStack Development",
     "Machine Learning & Deep Learning",
     "Backend Systems",
-    "Optimization & Algothrims",
   ]
 technical background:
   [
