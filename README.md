@@ -16,7 +16,7 @@ fields of interest:
   ]
 technical background:
   [
-    "Incoming SWE Intern @ Morgan Stanley - Parametric (Summer 2026)",
+    "SWE Intern @ Morgan Stanley - Parametric (June 2026 - August 2026)",
     "Software Developer @ University of Rochester - Lasso (October 2025 - Present)",
     "Fullstack Developer @ RocLab (October 2025 - Present)",
     "Web Operations Intern @ MJHS (Summer 2025)"
